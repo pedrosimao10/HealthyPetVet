@@ -6,11 +6,7 @@ Name | NMEC
 Alexandre Pinto | 98401
 Pedro Jorge | 98418
 
+## Concept
+Develop a Veterinary Clinic, "HealthyPetVet", applying the concepts learned about Databases during classes.
 
-- [X] Botão Veterinários
-- [X] Botão Enfermeiros
-- [X] Botão Episódios
-- [X] Botão Clientes
-- [X] Botão Animais
-- [X] Botão Faturas
-- [X] Botão Exit
+Demo: BD_Demo.mp4
